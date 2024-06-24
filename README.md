@@ -2,7 +2,8 @@ Example 2: Password Reset
 
 - Intake<br />
 Dave in Accounting has forgotten his password and has been locked out of his account due to too many invalid attempts, so he calls the Help Desk.<br />
-![Screenshot 2024-06-24 055749](https://github.com/ScotBlair/Example-2/assets/171102023/dd1484ed-31a0-4af9-857d-03151db2edfd)
+![Screenshot 2024-06-24 055749](https://github.com/ScotBlair/Example-2/assets/171102023/09a9989a-f058-4f66-8fce-6700e4eaf8c6)
+
 
 
 - Assignment and Communication<br />
