@@ -1,4 +1,4 @@
-Example 2: Password Reset
+Example 2: Password Reset<br />
 
 <br />- Intake<br />
 Dave in Accounting has forgotten his password and has been locked out of his account due to too many invalid attempts, so he calls the Help Desk.<br />
